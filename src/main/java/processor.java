@@ -1,9 +1,11 @@
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
 import us.codecraft.webmagic.processor.PageProcessor;
 import us.codecraft.webmagic.selector.CssSelector;
 import us.codecraft.webmagic.selector.JsonPathSelector;
-import us.codecraft.webmagic.selector.XpathSelector;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -50,11 +52,12 @@ public class processor implements PageProcessor {
 
         //云更新处理逻辑。
         if(page.getUrl().regex(YGXHelpUrl).match()){
-            List<String> gameList= page.getHtml().xpath("/html/body/section[3]/table/tbody/tr").all();
+            List<String> gameList= page.getHtml().xpath("/html/body/section[3]/table/tbody/tr*").all();
+
             for (String temp : gameList){
-                System.out.println(temp);
-//                new CssSelector().select(temp);
-                System.out.println(new XpathSelector("//*[@class='']").select(temp));
+//                System.out.println(temp);
+                Document doc = Jsoup.parse(temp);
+                System.out.println(doc.select(""));
             }
         }
     }

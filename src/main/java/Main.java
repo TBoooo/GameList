@@ -5,6 +5,9 @@ public class Main {
             String SWUrl="http://www.icafe8.com/frontEnd/frontGameUpdList.do";
             String YGXUrl="http://www.yungengxin.net.cn/game/update";
             Spider spider = Spider.create(new processor());
-            spider.addUrl(SWUrl).addUrl(YGXUrl).run();
+            spider
+//                    .addUrl(SWUrl)
+                    .addUrl(YGXUrl)
+                    .run();
     }
 }
