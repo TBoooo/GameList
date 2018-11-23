@@ -1,78 +1,528 @@
 
-09-21 16:35:31-us.codecraft.webmagic.Spider.run()
+11-21 16:04:29-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:04:30-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:04:30-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:06:23-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:06:23-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:06:24-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:07:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:07:49-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:07:49-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:09:01-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:09:01-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:09:02-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:10:35-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:10:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:10:35-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:10:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:10:48-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:10:49-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:15:35-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:15:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:17:26-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:17:27-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:17:27-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:24:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:24:49-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:26:03-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:26:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:26:04-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:26:26-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:26:27-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:26:27-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:27:46-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:27:47-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:27:47-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:27:59-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:28:00-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:28:00-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:28:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:28:20-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:28:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:28:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:28:48-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:28:49-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:29:07-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:29:08-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:29:08-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:30:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:30:21-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:30:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:32:00-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:32:00-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:32:01-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:37:09-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:37:09-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:37:10-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:39:15-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:39:15-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:39:16-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:39:29-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:39:30-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:39:30-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at processor.getYGXTotalPage(processor.java:123)
+	at processor.process(processor.java:61)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+11-21 16:39:30-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:39:43-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:39:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:39:44-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:40:11-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:40:12-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:40:12-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:40:38-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:40:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:40:39-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:42:04-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:42:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:42:05-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+
+11-21 16:42:57-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn started!
+
+11-21 16:42:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 16:42:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
+
+11-21 16:42:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
+
+11-21 16:42:59-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 16:42:59-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 16:43:00-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yungengxin.net.cn closed! 5 pages downloaded.
+
+11-21 16:43:33-us.codecraft.webmagic.Spider.run()
 [INFO]Spider www.icafe8.com started!
 
-09-21 16:35:31-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:33-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
 
-09-21 16:35:32-com.alibaba.druid.pool.DruidDataSource.init()
+11-21 16:43:35-com.alibaba.druid.pool.DruidDataSource.init()
 [INFO]{dataSource-1} inited
 
-09-21 16:35:33-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.yungengxin.net.cn/game/update
 
-09-21 16:35:33-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-java.lang.IllegalArgumentException: Must be true
-	at org.jsoup.helper.Validate.isTrue(Validate.java:35)
-	at us.codecraft.xsoup.XTokenQueue.trimQuotes(XTokenQueue.java:506)
-	at us.codecraft.xsoup.xevaluator.XPathParser.byAttribute(XPathParser.java:363)
-	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:229)
-	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
-	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
-	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
-	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
-	at processor.process(processor.java:57)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:35:33-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:36-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
 
-09-21 16:35:34-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:37-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
 
-09-21 16:35:34-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:37-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=4&gameName=
 
-09-21 16:35:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 16:43:38-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
+
+11-21 16:43:38-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
+
+11-21 16:43:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 16:43:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 16:43:39-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com closed! 9 pages downloaded.
+
+11-21 17:42:03-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com started!
+
+11-21 17:42:03-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
+
+11-21 17:42:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 17:42:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
+
+11-21 17:42:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
+
+11-21 17:42:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=4&gameName=
+
+11-21 17:42:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=5&gameName=
 
-09-21 16:35:35-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.icafe8.com closed! 6 pages downloaded.
+11-21 17:42:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
 
-09-21 16:37:51-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
+11-21 17:42:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
 
-09-21 16:37:52-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+11-21 17:42:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 17:42:08-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 17:42:08-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com closed! 10 pages downloaded.
+
+11-21 17:43:59-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com started!
+
+11-21 17:43:59-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
+
+11-21 17:44:00-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
 [INFO]downloading page success http://www.yungengxin.net.cn/game/update
 
-09-21 16:37:52-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-java.lang.IllegalArgumentException: Must be true
-	at org.jsoup.helper.Validate.isTrue(Validate.java:35)
-	at us.codecraft.xsoup.XTokenQueue.trimQuotes(XTokenQueue.java:506)
-	at us.codecraft.xsoup.xevaluator.XPathParser.byAttribute(XPathParser.java:363)
-	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:229)
-	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
-	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
-	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
-	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
-	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
-	at processor.process(processor.java:57)
+11-21 17:44:01-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
+
+11-21 17:44:01-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
+
+11-21 17:44:01-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=4&gameName=
+
+11-21 17:44:02-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=5&gameName=
+
+11-21 17:44:02-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
+
+11-21 17:44:03-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
+
+11-21 17:44:03-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 17:44:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 17:44:04-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com closed! 10 pages downloaded.
+
+11-21 17:51:37-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com started!
+
+11-21 17:51:37-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
+
+11-21 17:51:38-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 17:51:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
+
+11-21 17:51:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
+
+11-21 17:51:40-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=4&gameName=
+
+11-21 17:51:40-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=5&gameName=
+
+11-21 17:51:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
+
+11-21 17:51:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
+
+11-21 17:51:42-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 17:51:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 17:51:43-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com closed! 10 pages downloaded.
+
+11-21 17:52:56-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com started!
+
+11-21 17:52:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
+
+11-21 17:52:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 17:52:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
+
+11-21 17:52:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
+
+11-21 17:53:02-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com started!
+
+11-21 17:53:03-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do
+
+11-21 17:53:03-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+
+11-21 17:53:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=2&gameName=
+
+11-21 17:53:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=3&gameName=
+
+11-21 17:53:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=4&gameName=
+
+11-21 17:53:05-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.icafe8.com/frontEnd/frontGameUpdList.do?pageNum=5&gameName=
+
+11-21 17:53:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=2&order=DESC#t-center
+
+11-21 17:53:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=3&order=DESC#t-center
+
+11-21 17:53:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=4&order=DESC#t-center
+
+11-21 17:53:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yungengxin.net.cn/game/update?page=5&order=DESC#t-center
+
+11-21 17:53:08-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.icafe8.com closed! 10 pages downloaded.
+
+11-23 11:02:43-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:02:44-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:02:44-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:03:16-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:03:17-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:03:17-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:03:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:03:49-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:03:50-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:04:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:04:22-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:04:23-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:05:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:05:20-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:05:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:05:34-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:05:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:05:35-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:09:09-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:09:10-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list
+
+11-23 11:09:11-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
+
+11-23 11:16:35-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
+
+11-23 11:16:36-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=1
+
+11-23 11:16:36-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='http://www.yileyoo.com/game/list?page=1', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.StringIndexOutOfBoundsException: String index out of range: -9
+	at java.lang.String.substring(String.java:1931)
+	at processor.process(processor.java:74)
 	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
 	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
 	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
@@ -82,427 +532,41 @@ java.lang.IllegalArgumentException: Must be true
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at java.lang.Thread.run(Thread.java:748)
 
-09-21 16:37:52-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+11-23 11:16:36-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 1 pages downloaded.
 
-09-21 16:38:50-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
+11-23 11:16:51-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
 
-09-21 16:38:50-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+11-23 11:16:52-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=1
 
-09-21 16:38:50-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+11-23 11:16:53-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=2
 
-09-21 16:39:05-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
+11-23 11:16:53-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 2 pages downloaded.
 
-09-21 16:39:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+11-23 11:18:41-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
 
-09-21 16:39:06-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+11-23 11:18:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=1
 
-09-21 16:39:17-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
+11-23 11:18:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=2
 
-09-21 16:39:17-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+11-23 11:18:43-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 2 pages downloaded.
 
-09-21 16:39:18-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+11-23 11:19:46-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com started!
 
-09-21 16:39:37-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
+11-23 11:19:47-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=1
 
-09-21 16:39:38-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
+11-23 11:19:48-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success http://www.yileyoo.com/game/list?page=2
 
-09-21 16:39:38-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:39:46-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:39:47-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:39:47-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:40:03-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:40:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:40:04-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:40:21-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:40:23-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:40:23-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:40:31-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:40:31-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:40:31-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:40:41-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:40:42-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:40:42-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:40:49-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:40:49-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:40:50-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:41:32-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:41:33-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:41:33-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-java.lang.IllegalArgumentException: String must not be empty
-	at org.jsoup.helper.Validate.notEmpty(Validate.java:92)
-	at org.jsoup.select.Selector.<init>(Selector.java:83)
-	at org.jsoup.select.Selector.select(Selector.java:108)
-	at org.jsoup.nodes.Element.select(Element.java:322)
-	at us.codecraft.webmagic.selector.CssSelector.selectElements(CssSelector.java:93)
-	at us.codecraft.webmagic.selector.CssSelector.select(CssSelector.java:60)
-	at us.codecraft.webmagic.selector.BaseElementSelector.select(BaseElementSelector.java:18)
-	at processor.process(processor.java:56)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:41:33-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:41:44-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:41:45-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:41:45-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-org.jsoup.select.Selector$SelectorParseException: Could not parse query '//': unexpected token at '//'
-	at org.jsoup.select.QueryParser.findElements(QueryParser.java:204)
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:59)
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:42)
-	at org.jsoup.select.Selector.<init>(Selector.java:86)
-	at org.jsoup.select.Selector.select(Selector.java:108)
-	at org.jsoup.nodes.Element.select(Element.java:322)
-	at us.codecraft.webmagic.selector.CssSelector.selectElements(CssSelector.java:93)
-	at us.codecraft.webmagic.selector.CssSelector.select(CssSelector.java:60)
-	at us.codecraft.webmagic.selector.BaseElementSelector.select(BaseElementSelector.java:18)
-	at processor.process(processor.java:56)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:41:45-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:41:50-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:41:51-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:41:51-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-org.jsoup.select.Selector$SelectorParseException: String must not be empty
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:44)
-	at org.jsoup.select.Selector.<init>(Selector.java:86)
-	at org.jsoup.select.Selector.select(Selector.java:108)
-	at org.jsoup.nodes.Element.select(Element.java:322)
-	at us.codecraft.webmagic.selector.CssSelector.selectElements(CssSelector.java:93)
-	at us.codecraft.webmagic.selector.CssSelector.select(CssSelector.java:60)
-	at us.codecraft.webmagic.selector.BaseElementSelector.select(BaseElementSelector.java:18)
-	at processor.process(processor.java:56)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:41:51-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:41:56-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:41:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:41:57-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:44:33-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:44:34-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:44:34-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:45:01-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:45:01-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:45:02-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:48:42-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:48:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:48:43-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:48:54-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:48:54-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:48:54-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:02-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:02-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:02-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-org.jsoup.select.Selector$SelectorParseException: String must not be empty
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:44)
-	at org.jsoup.select.Selector.<init>(Selector.java:86)
-	at org.jsoup.select.Selector.select(Selector.java:108)
-	at org.jsoup.nodes.Element.select(Element.java:322)
-	at processor.process(processor.java:60)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:49:02-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:13-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:13-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:13-us.codecraft.webmagic.Spider$1.run()
-[ERROR]process request Request{url='http://www.yungengxin.net.cn/game/update', method='null', extras=null, priority=0, headers={}, cookies={}} error
-org.jsoup.select.Selector$SelectorParseException: Could not parse query 'tr.td(1)': unexpected token at '(1)'
-	at org.jsoup.select.QueryParser.findElements(QueryParser.java:204)
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:71)
-	at org.jsoup.select.QueryParser.parse(QueryParser.java:42)
-	at org.jsoup.select.Selector.<init>(Selector.java:86)
-	at org.jsoup.select.Selector.select(Selector.java:108)
-	at org.jsoup.nodes.Element.select(Element.java:322)
-	at processor.process(processor.java:60)
-	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
-	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
-	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
-	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
-	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-
-09-21 16:49:13-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:26-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:27-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:27-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:32-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:32-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:32-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:43-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:43-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 16:49:47-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 16:49:48-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 16:49:48-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:04:21-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:04:21-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:04:22-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:04:59-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:04:59-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:04:59-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:05:07-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:05:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:05:08-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:05:14-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:05:14-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:05:14-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:05:23-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:05:24-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:05:24-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:05:35-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:05:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:05:36-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:05:55-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:05:55-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:05:55-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:06:12-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:06:13-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:06:13-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:06:25-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:06:25-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:06:25-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:06:33-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:06:33-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:06:34-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:06:41-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:06:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:06:41-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
-
-09-21 17:07:25-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn started!
-
-09-21 17:07:26-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
-[INFO]downloading page success http://www.yungengxin.net.cn/game/update
-
-09-21 17:07:26-us.codecraft.webmagic.Spider.run()
-[INFO]Spider www.yungengxin.net.cn closed! 1 pages downloaded.
+11-23 11:19:48-us.codecraft.webmagic.Spider.run()
+[INFO]Spider www.yileyoo.com closed! 2 pages downloaded.
