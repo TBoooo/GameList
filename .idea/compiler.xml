@@ -9,5 +9,8 @@
         <module name="gamelist" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gamelist" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

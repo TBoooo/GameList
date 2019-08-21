@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
 
 public class processor implements PageProcessor {
     private String SWHelpUrl = "http://www.icafe8.com/.*";
-    private String YGXHelpUrl = "http://www.yungengxin.net.cn/game/update.*";
+    private String YGXHelpUrl = "https://yungengxin.com/game/update.*";
     private String YLYHelpUrl = "http://www.yileyoo.com/game/list.*";
     private String datePattern = "yyyy-MM-dd HH:mm:ss";
 
@@ -105,12 +105,13 @@ public class processor implements PageProcessor {
                 String sdf = new SimpleDateFormat(datePattern).format(new Date());
                 gameBean.setGameName(ele.select("td:nth-child(1)").text());
                 gameBean.setUpdateTime(ele.select("td:nth-child(4)").text().substring(11));
-                gameBean.setGameType(ele.select("td:nth-child(22)").text());
+                gameBean.setGameType(ele.select("td:nth-child(2)").text());
                 gameBean.setGameSize(ele.select("td:nth-child(3)").text());
                 gameBean.setSource("云更新");
                 gameBean.setHandleFlag("0");
                 gameBean.setCrawlerTime(sdf);
-                Dao.insert(gameBean);
+//                Dao.insert(gameBean);
+                System.out.println(gameBean);
             }
         }
     }
@@ -140,6 +141,7 @@ public class processor implements PageProcessor {
 
     public static int getYGXTotalPage(String temp){
         try {
+            System.err.println(temp);
             Pattern p = Pattern.compile("totalPage:\\d+,");
             Matcher m = p.matcher(temp);
             m.find();

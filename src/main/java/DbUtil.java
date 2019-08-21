@@ -26,7 +26,7 @@ public class DbUtil {
             }
         } catch (SQLException e) {
             log.error( "数据库操作异常,详细信息:{}",e.getMessage() );
-            System.out.println("数据操作异常--》"+e.getMessage());
+//            System.out.println("数据操作异常--》"+e.getMessage());
         }
         return 0;
     }
