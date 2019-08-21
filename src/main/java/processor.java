@@ -17,6 +17,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class processor implements PageProcessor {
+    private boolean isWriteDb = true;
     private String SWHelpUrl = "http://www.icafe8.com/.*";
     private String YGXHelpUrl = "https://yungengxin.com/game/update.*";
     private String YLYHelpUrl = "http://www.yileyoo.com/game/list.*";
@@ -50,7 +51,11 @@ public class processor implements PageProcessor {
                 gameBean.setSource("顺网");
                 gameBean.setHandleFlag("0");
                 gameBean.setCrawlerTime(sdf);
-                Dao.insert(gameBean);
+                if (isWriteDb){
+                    Dao.insert(gameBean);
+                }else {
+                    System.out.println(gameBean);
+                }
             }
         }
 
@@ -78,8 +83,11 @@ public class processor implements PageProcessor {
                 gameBean.setSource("易乐游");
                 gameBean.setHandleFlag("0");
                 gameBean.setCrawlerTime(sdf);
-//                System.out.println(gameBean);
-                Dao.insert(gameBean);
+                if(isWriteDb){
+                    Dao.insert(gameBean);
+                }else {
+                    System.out.println(gameBean);
+                }
             }
         }
 
@@ -110,8 +118,11 @@ public class processor implements PageProcessor {
                 gameBean.setSource("云更新");
                 gameBean.setHandleFlag("0");
                 gameBean.setCrawlerTime(sdf);
-//                Dao.insert(gameBean);
-                System.out.println(gameBean);
+                if(isWriteDb){
+                    Dao.insert(gameBean);
+                }else {
+                    System.out.println(gameBean);
+                }
             }
         }
     }
